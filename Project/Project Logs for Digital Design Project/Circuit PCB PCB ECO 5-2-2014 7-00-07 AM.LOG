@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D8-2
+Removed Pin From Net: NetName=VCC Pin=P2-2
+Removed Pin From Net: NetName=VCC Pin=P3-2
+Removed Pin From Net: NetName=VCC Pin=P4-2
+Removed Pin From Net: NetName=GND Pin=P8-2
+Removed Pin From Net: NetName=GND Pin=P9-2
+Removed Pin From Net: NetName=GND Pin=P10-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=GND Pin=R8-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=VCC Pin=S1-2
+Removed Pin From Net: NetName=VCC Pin=S2-2
+Removed Pin From Net: NetName=VCC Pin=S3-2
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=C8
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=C9
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=C10
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=D6
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=D7
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=D8
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=P2
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=P3
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=P4
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=P8
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=P9
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=P10
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=R7
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=R8
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=R9
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=R11
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=R12
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=R15
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=S1
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=S2
+Removed Member From Class: ClassName=Mach dieu khien dong co dc Member=S3
+Change Net Name : Old Net Name=COUNTER New Net Name=ADC
+Change Class Name : Old Net Name=Mach dieu khien dong co dc New Net Name=Circuit Schematic
+Added Room: Name=Circuit Schematic

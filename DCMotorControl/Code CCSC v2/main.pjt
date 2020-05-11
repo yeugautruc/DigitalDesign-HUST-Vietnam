@@ -1,0 +1,27 @@
+[PROJECT]
+Target=D:\My Project\Project 1 Dieu Khien Van Toc DC\Code CCSC v2\main.hex
+Development_Mode=
+Processor_Text=PIC16F877A
+ToolSuite=CCS
+Processor=0x877A
+[D:\My Project\Project 1 Dieu Khien Van Toc DC\Code CCSC v2\main]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=D:\My Project\Project 1 Dieu Khien Van Toc DC\Code CCSC v2\main.c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Link=0
+Count=1
+1=D:\My Project\Project 1 Dieu Khien Van Toc DC\Code CCSC v2\main
+[Opened Files]
+1=main.c
+2=PIC16F877A_CCS_C.H
+3=pic16f877a_function.h
+4=pic16f877a_function.c
+5=
